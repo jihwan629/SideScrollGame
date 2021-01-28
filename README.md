@@ -16,6 +16,17 @@
 <br>
 <br>
 
+## 조작법
+ 
+ <br>
+
+ > 이동 : W, D <br>
+ > 구르기 : Left Shift <br>
+ > 점프 : Space Bar <br>
+ > 공격 : 마우스 왼쪽 버튼 <br>
+
+ <br>
+
  ## 플레이 영상
  
  <br>
